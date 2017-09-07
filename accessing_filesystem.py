@@ -1,3 +1,6 @@
+
+import os
+
 os.unlink('deleteme.txt') # remove deleteme.txt from disk 
 os.rename('file.txt', 'newname.txt') # mv file.txt to newname.txt 
 os.chdir(newdirectory) #change current/working directory
