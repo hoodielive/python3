@@ -1,0 +1,5 @@
+Objectives 
+- Design reusuable OOP Python classes 
+- Apply OOP concepts to handle complexity
+    - classes, instances
+    - encapsulation, polymorphism, abstraction
