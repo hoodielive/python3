@@ -22,3 +22,9 @@ print(arr.ndim)
 
 # check dtype 
 print(arr.dtype)
+
+arr = np.zeros(10)
+print(arr)
+
+arr = np.zeros((2,3))
+print(arr)
